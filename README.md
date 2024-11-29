@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="100" height = 100/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="125" height = 125/>
 </h1>
 
 <h1 align="center">Hi 😉, I'm Kasra</h1>
