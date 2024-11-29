@@ -1,5 +1,5 @@
 <h1 align="center">Hi 😉, I'm Kasra
-    <img src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="60"/>
+    <img src="[https://giphy.com/embed/KAq5w47R9rmTuvWOWa](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVuYXd5dmxvbGI1azN1OHpqdzI2d3ludThmdTQ5N2JnbXZkM2Z1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif)" width="60"/>
 </h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
