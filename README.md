@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=kasraSMD&label=Profile%20Views&color=11&icon=4&pretty=false)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 😉, I'm Kasra</h1>
 <h3 align="center">A passionate AI developer from Iran</h3>
 
@@ -21,3 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrasmd&show_icons=true&locale=en&layout=compact" alt="kasrasmd" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=kasraSMD&label=Profile%20Views&color=11&icon=4&pretty=false)](https://visitcount.itsvg.in)
