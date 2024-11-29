@@ -1,4 +1,7 @@
-<h1 align="center">Hi 😉, I'm Kasra</h1>
+<h1 align="center">Hi 😉, I'm Kasra
+    <img src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="60"/>
+</h1>
+
 <h3 align="center">A passionate AI developer from Iran</h3>
 
 - 🔭 I’m currently working on **Persian poem rhythm recognition using Deep learning**
