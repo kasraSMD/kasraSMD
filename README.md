@@ -5,7 +5,7 @@
 <h1 align="center">Hi 😉, I'm Kasra</h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200" height = 200/>
+
 - 🔭 I’m currently working on **Persian poem rhythm recognition using Deep learning**
 
 - 🌱 I’m currently learning **CNNs, Transformers and LLMs**
