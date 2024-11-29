@@ -1,9 +1,8 @@
 <h1 align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="100" height = 100/>
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200" height = 200/>
 </h1>
-<h1 align="center">Hi 😉, I'm Kasra
 
-</h1>
+<h1 align="center">Hi 😉, I'm Kasra</h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
 
