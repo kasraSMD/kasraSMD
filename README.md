@@ -28,12 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrasmd&show_icons=true&locale=en&layout=compact" alt="kasrasmd" /></p>
 
-<h3 align="center">Thank you for visiting my profile! 
-    <picture>
-      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.webp" type="image/webp">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f642/512.gif" alt="🙂" width="32" height="32">
-    </picture>
-</h3>
+<h3 align="center">Thank you for visiting my profile! 🙂</h3>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
