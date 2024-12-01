@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Hi 
-		<img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif)" width="30">
+		<img src="[[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif)](https://googlefonts.github.io/noto-emoji-animation/?selected=Animated%20Emoji%3Aemoji_u1f609%3A)" width="30">
     <picture>
 </picture>, I'm Kasra</h1>
 
