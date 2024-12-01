@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="50" height="50">
 </picture>, I'm Kasra</h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
