@@ -3,8 +3,8 @@
 </h1>
 
 <h1 align="center">Hi <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="32" height="32">
+    <a href="https://github.com/PeymanKh" target="_self">
+		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" width="30">
 </picture>, I'm Kasra</h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
