@@ -3,8 +3,7 @@
 </h1>
 
 <h1 align="center">Hi <picture>
-    <a href="https://github.com/kasraSMD " target="_self">
-		<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" width="30">
+	<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" width="30">
 </picture>, I'm Kasra</h1> 
 
 <h3 align="center">A passionate AI developer from Iran</h3>
