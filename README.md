@@ -28,7 +28,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrasmd&show_icons=true&locale=en&layout=compact" alt="kasrasmd" /></p>
 
-<h3 align="center">Thank you for visiting my profile🙂!</h3>
+<h3 align="center">Thank you for visiting my profile! 🙂</h3>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
