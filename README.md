@@ -2,10 +2,7 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWExdjl2aG96YXI0ZzBreHhmczUxMjZxbW40ZjQ2d3FlcWl2OGE1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="125" height = 125/>
 </h1>
 
-<h1 align="center">Hi 
-		<img src="[[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif)](https://googlefonts.github.io/noto-emoji-animation/?selected=Animated%20Emoji%3Aemoji_u1f609%3A)" width="30">
-    <picture>
-</picture>, I'm Kasra</h1>
+<h1 align="center">Hi 😉, I'm Kasra</h1>
 
 <h3 align="center">A passionate AI developer from Iran</h3>
 
