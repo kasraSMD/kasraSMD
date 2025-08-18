@@ -41,8 +41,8 @@
 <h3 align="center">Thank you for visiting my profile! 🙂</h3>
 
 
-<div align="center">
+<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kasraSMD .kasraSMD &"  />
-</div>
+</p>
 
 ###
