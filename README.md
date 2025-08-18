@@ -28,9 +28,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasrasmd&show_icons=true&locale=en&layout=compact" alt="kasrasmd" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KasraSMD /KasraSMD /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KasraSMD /KasraSMD /output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KasraSMD /KasraSMD /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kasraSMD /kasraSMD /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kasraSMD /kasraSMD /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kasraSMD /kasraSMD /output/pacman-contribution-graph.svg">
 </picture>
 
 
