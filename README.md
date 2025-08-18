@@ -40,8 +40,9 @@
 
 <h3 align="center">Thank you for visiting my profile! 🙂</h3>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=kasraSMD&label=Profile%20Views&color=11&icon=4&pretty=false" alt="Visit Count" />
-  </a>
-</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kasraSMD .kasraSMD &"  />
+</div>
+
+###
