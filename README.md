@@ -8,10 +8,6 @@
 
 <h3 align="center">AI developer</h3>
 
-- 🔭 I’m currently working on **Persian poem rhythm recognition using Deep learning**
-
-- 🌱 I’m currently learning **CNNs, Transformers and LLMs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kasraSMD](https://github.com/kasraSMD)
 
 - 📫 How to reach me **samadikasra@gmail.com**
